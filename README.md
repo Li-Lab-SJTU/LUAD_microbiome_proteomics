@@ -16,21 +16,21 @@ add_FDR_in_msgf_tsvfile_separateFDR_revise.R : Calculate the separate fdr of mic
 ## 2.taxon_go_abundance_calculation_normalization
 MS_experiment_sample_info : The sample information of each plex in the two TMT-10 plex analysis cohorts (CPTAC and TW).
 
-normalization_plots : The taxon/go abundance distribution before and after normaliztion, corresponding to the Supplementary Figure S1 BC of the manuscript.
+normalization_plots : The taxon/go abundance distribution before and after normalization, corresponding to the Supplementary Figure S1 BC of the manuscript.
 
-output_go/taxon_abundance_data : The abundances of microbal taxa or GO terms in samples of each cohort.
+output_go/taxon_abundance_data : The abundances of microbial taxa or GO terms in samples of each cohort.
         
     *.noheader : The abundances data.
     *.header : The header file, contains the sample names and sample types (tumor or NAT) of each cohort.
 
-peptide_intensity_data : The intensity values of identified microbial peptides in each sample identified in the three cohorts.
+peptide_intensity_data : The intensity values of identified microbial peptides in each sample in the three cohorts.
 
-unipept_output_data : The taxonomic annotations and GO (Gene Ontology) annotations of the identified microbial peptides in Unipept meteproteomics annotation. 
+unipept_output_data : The taxonomic annotations and GO (Gene Ontology) annotations of the identified microbial peptides in Unipept metaproteomics annotation. 
 
-*_go/abundance_calculation_normalization.R : The script to calculate and normalize the go terms/taxon abundaces in each sample of the three cohorts, combining the peptide_intensity_data and unipept_output_data.
+*_go/abundance_calculation_normalization.R : The script to calculate and normalize the go terms/taxon abundances in each sample of the three cohorts, combining the peptide_intensity_data and unipept_output_data.
 
 ## 3.two_part_wilcoxon_test
-test_result : The results of statistical test of the taxon/go term abundances between the tumor and NAT samples in each cohort.
+test_result : The results of statistical tests of the taxon/go term abundances between the tumor and NAT samples in each cohort.
 
 statistical_test.R : The script of statistical test. 
 
