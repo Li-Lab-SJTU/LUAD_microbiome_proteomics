@@ -1,0 +1,766 @@
+peptide,lca,superkingdom,kingdom,subkingdom,superphylum,phylum,subphylum,superclass,class,subclass,superorder,order,suborder,infraorder,superfamily,family,subfamily,tribe,subtribe,genus,subgenus,species.group,species.subgroup,species,subspecies,strain,varietas,forma
+AGPFGELFRPDNFVFGQSGAGNNWAK,Fungi,Eukaryota,Fungi,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LSNSTSPTSFVAWGGGAGTTHLNVQWQPSGGVTEPGSSGSPLYSPEKR,Proteobacteria,Bacteria,,,NA,Proteobacteria,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VFTSWTGGGAAASR,Proteobacteria,Bacteria,,,NA,Proteobacteria,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LCYVALDFEQEMQTAAQSSALEK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+GSLTSVQALYVPADDLTDPAPATSFAHLDATTVLSR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NAPALLFLDELDSLAPK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LGLDDLVHFDFMDPPAPETMMR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TTGLVLDSGDGVTHTVPLYEGYALPHALLR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QGPFGDLFRPDNFVFGQSGAGNNWAK,Microsporidia,Eukaryota,Fungi,,NA,Microsporidia,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VVLAYEPLWALGTGK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ATNGDTHLGGEDFDNR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+GLDVQQVSLVLNYDLPNNK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ATYATSDFTLLELNNAANPAFNLFWAGWDRR,Proteobacteria,Bacteria,,,NA,Proteobacteria,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+MVHNGLEYGDMQLLCETYDLMK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+RDQNYPGALALHHPNVAEKR,Proteobacteria,Bacteria,,,NA,Proteobacteria,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LCYVALDFEQEMQTSSQSSALEK,Saccharomycetales,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,,,,,,,,,,,,NA,NA
+LSNSTSPTSFVAWGGGAGTTHLNVQWQPSGGVTEPGSSGSPLYSPEK,Proteobacteria,Bacteria,,,NA,Proteobacteria,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VSDTVVEPYNATLSMHQLVENSDKTFCLDNEALYDLCMR,Trichoderma,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Sordariomycetes,Hypocreomycetidae,,Hypocreales,,,NA,Hypocreaceae,,,,Trichoderma,,,,,,,NA,NA
+QTVAVGVLKK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QGPFGELFRPDNFVFGQSGAGNNWAK,Encephalitozoon,Eukaryota,Fungi,,NA,Microsporidia,,,,,,,Apansporoblastina,,NA,Unikaryonidae,,,,Encephalitozoon,,,,,,,NA,NA
+TTGLVFDSGDGVSHVVPLYEGYSLPYALNR,Encephalitozoon,Eukaryota,Fungi,,NA,Microsporidia,,,,,,,Apansporoblastina,,NA,Unikaryonidae,,,,Encephalitozoon,,,,,,,NA,NA
+DLTDYLQLLLTESGNSFTTTAER,Microsporidia,Eukaryota,Fungi,,NA,Microsporidia,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+AYLPVNESFGFTGELR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+AAVAWGAKEPLSLEDLQVAPPK,Schizosaccharomyces pombe 972h-,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Taphrinomycotina,,Schizosaccharomycetes,,,Schizosaccharomycetales,,,NA,Schizosaccharomycetaceae,,,,Schizosaccharomyces,,,,Schizosaccharomyces pombe,,Schizosaccharomyces pombe 972h-,NA,NA
+QEAVSMLPPLVLEVK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QAVNLKLLPR,Corynebacterium,Bacteria,,,NA,Actinobacteria,,,Actinomycetia,,,Corynebacteriales,,,NA,Corynebacteriaceae,,,,Corynebacterium,,,,,,,NA,NA
+QTVLSYAAK,Mycobacterium,Bacteria,,,NA,Actinobacteria,,,Actinomycetia,,,Corynebacteriales,,,NA,Mycobacteriaceae,,,,Mycobacterium,,,,,,,NA,NA
+GGTLLGSAR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TMLELLNQLDGFDTSQR,Schizosaccharomyces pombe 972h-,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Taphrinomycotina,,Schizosaccharomycetes,,,Schizosaccharomycetales,,,NA,Schizosaccharomycetaceae,,,,Schizosaccharomyces,,,,Schizosaccharomyces pombe,,Schizosaccharomyces pombe 972h-,NA,NA
+AGPFGQLFRPDNFLFGQSSAGNNWAK,Pezizomycotina,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TTGLVLDSGDGVSHTVPLYEGFALPHALLR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EVFLDGEGR,Clostridium,Bacteria,,,NA,Firmicutes,,,Clostridia,,,Eubacteriales,,,NA,Clostridiaceae,,,,Clostridium,,,,,,,NA,NA
+QYLAQWTSNK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LGGLGTVPVGRLETGVLKPGMVVTFAPSNVTTEVK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+PFVVDSLEFMHTALVQNK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EDASNNYAR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EAENCDMLQGFQLTHSLGGGTGAGMGTLLLSK,Ustilaginomycotina,Eukaryota,Fungi,Dikarya,NA,Basidiomycota,Ustilaginomycotina,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LRPLSYPQTDVFLVCFSVTSPASFENVK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+SGTLACTGSLVNNTANDRK,Proteobacteria,Bacteria,,,NA,Proteobacteria,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+RLLNEPTAAALAYGLDR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+APNTPASGANGDGSMSQTQSGSTVK,Proteobacteria,Bacteria,,,NA,Proteobacteria,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EAESCDCLQGFQVTHSLGGGTGSGMGTLLLSK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+PSLSNASCTTNCLAPLAK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ATAGDTHLGAEDFDNR,Blastocladiella emersonii,Eukaryota,Fungi,,NA,Blastocladiomycota,,,Blastocladiomycetes,,,Blastocladiales,,,NA,Blastocladiaceae,,,,Blastocladiella,,,,Blastocladiella emersonii,,,NA,NA
+FYTDEGNWDLVGNNTPVFFFRDPKLFPSLNHVVK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+MLNEDELRNAVLLVFANK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LGALVAMYEHK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+KSVLLLSTDPAHNLSDAFNQK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LLNEPTAAALAFGLNK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+SLQDLLALLGMDELSEQDK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VNLLGEHTDYNLGFALPLALPR,Mycobacterium tuberculosis complex,Bacteria,,,NA,Actinobacteria,,,Actinomycetia,,,Corynebacteriales,,,NA,Mycobacteriaceae,,,,Mycobacterium,,Mycobacterium tuberculosis complex,,,,,NA,NA
+ALESPQRPFLALLGGAK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LPSAVGYQPTLATDMGQMQER,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NMLTGTSQADCALLLLGGGTGEFEAGLSK,Dikarya,Eukaryota,Fungi,Dikarya,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VAPEEHPVLLTEAPMNPK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QVHPDTGLSTR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+GLLTLRYPLEHGLVTNWDDMEK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+AVVTVPAYFNDAQR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EAENSDSLQGFQLSHSLGGGTGSGMGTLLLSK,Geotrichum candidum,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Dipodascaceae,,,,Geotrichum,,,,Geotrichum candidum,,,NA,NA
+NGDLYVNDAFSAAHR,Hyphomicrobiales,Bacteria,,,NA,Proteobacteria,,,Alphaproteobacteria,,,Hyphomicrobiales,,,NA,,,,,,,,,,,,NA,NA
+VDNEALYDLCR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LPSAVGYQPTLAVDMGQMQER,Pezizomycotina,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LTLHGLQQYYTK,Saccharomycetaceae,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,,,,,,,,NA,NA
+EVEDQMRNVQNK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+FEPDTNSASSGHR,Aspergillus,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Eurotiomycetes,Eurotiomycetidae,,Eurotiales,,,NA,Aspergillaceae,,,,Aspergillus,,,,,,,NA,NA
+GNHECANLTR,Ascomycota,Eukaryota,Fungi,Dikarya,NA,Ascomycota,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VMEKTQPPLR,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LGDVYLNDAFGTAHR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+MSVTFLGNSTALQELFK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+KGSLTSVQAVYVPADDLTDPAPATTFAHLDATTVLSR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ELVSCSNCTDYQSR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+SSLHSTAWRR,Human mastadenovirus C,Viruses,Bamfordvirae,,NA,Preplasmiviricota,,,Tectiliviricetes,,,Rowavirales,,,NA,Adenoviridae,,,,Mastadenovirus,,,,Human mastadenovirus C,,,NA,NA
+LLSWYDNEYGYSRR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TAGTLVQEFVRLR,Sordariomycetes,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Sordariomycetes,,,,,,NA,,,,,,,,,,,,NA,NA
+YTSQLPNGK,Kluyveromyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Kluyveromyces,,,,,,,NA,NA
+LGPALATGNCLVLK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+MLLNLHRKTWADNLK,Encephalitozoon,Eukaryota,Fungi,,NA,Microsporidia,,,,,,,Apansporoblastina,,NA,Unikaryonidae,,,,Encephalitozoon,,,,,,,NA,NA
+QTEPTEEPK,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LFRPDNFVFGQSGAGNNWAK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+SCTTNCLAPLAK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+RLLNEPTAAALAYGLDK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ATLNYPFEK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+DQNYPGALALHHPNVAEK,Proteobacteria,Bacteria,,,NA,Proteobacteria,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TLFENVAYGPRLHGLATGK,Caulobacteraceae,Bacteria,,,NA,Proteobacteria,,,Alphaproteobacteria,,,Caulobacterales,,,NA,Caulobacteraceae,,,,,,,,,,,NA,NA
+VLNLTLLDLPGLTK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+SGPFGKLFRPDNFVFGQSGAGNNWAK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+AGPFGQLFRPDNFVFGQSGAGNNWAK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ATDVMLAGKR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TTGLVMDSGDGVTHTVPLYEGFALPHALLR,Boletales,Eukaryota,Fungi,Dikarya,NA,Basidiomycota,Agaricomycotina,,Agaricomycetes,Agaricomycetidae,,Boletales,,,NA,,,,,,,,,,,,NA,NA
+RDQNYPGALALHHPNVAEK,Proteobacteria,Bacteria,,,NA,Proteobacteria,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TTGLVLDSGDGVTHTVPLYEGFALPHALLR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VQDDEVGDGTTSVTVLSAELLR,Dikarya,Eukaryota,Fungi,Dikarya,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VDNEALYDLCRR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TNDWEDHLAVK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+SLGQNPSESELQDMLNEVDADNNGTLDFPEFLTMMAR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+DVDGLTVTNAGR,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+YSKLESFAR,Ustilaginomycotina,Eukaryota,Fungi,Dikarya,NA,Basidiomycota,Ustilaginomycotina,,,,,,,,NA,,,,,,,,,,,,NA,NA
+DQNYPGALALHHPNVAEKR,Proteobacteria,Bacteria,,,NA,Proteobacteria,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+GNPTVEVDLTTDK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+FAAYFQQGNMESNGK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LLCFVGPPGVGK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LSSYTAFSR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LFQVEYSLEALK,Ascomycota,Eukaryota,Fungi,Dikarya,NA,Ascomycota,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EAEACDCLQGFQLTHSLGGGTGAGMGTLLLSK,Ascomycota,Eukaryota,Fungi,Dikarya,NA,Ascomycota,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+AFVHWYVGEGMEEGEFSEAREDLASLEK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+GHYTEGAELVDNVVDVVR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VVLAYEPVWALGTGR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VLGQLHGGPSSCSATGTNR,Proteobacteria,Bacteria,,,NA,Proteobacteria,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LLNEPTAAALAYGLDRK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TMLELLNQLDGFETSK,Saccharomycetaceae,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,,,,,,,,NA,NA
+SLKDLLALLGMDELSEEDK,Caulobacteraceae,Bacteria,,,NA,Proteobacteria,,,Alphaproteobacteria,,,Caulobacterales,,,NA,Caulobacteraceae,,,,,,,,,,,NA,NA
+VAPEEHPALLTEAPLNPK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+FPGSLNVDLTEFQTNLVPYPR,Microsporidia,Eukaryota,Fungi,,NA,Microsporidia,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+PKPCCACPETK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+GYNYTTTAER,Pneumocystis,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Taphrinomycotina,,Pneumocystidomycetes,,,Pneumocystidales,,,NA,Pneumocystidaceae,,,,Pneumocystis,,,,,,,NA,NA
+DKFCVCHLATGDMLR,Dikarya,Eukaryota,Fungi,Dikarya,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LLNEPTAAALAYGLEK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+FDGALNVDLNEFQTNLVPYPR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EEAPQPARR,Aspergillus terreus,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Eurotiomycetes,Eurotiomycetidae,,Eurotiales,,,NA,Aspergillaceae,,,,Aspergillus,Aspergillus subgen. Circumdati,,,Aspergillus terreus,,,NA,NA
+LAPEEHPVLLTEAPMNPK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LCYVALDFEQEMQTASQSSAVEK,Kluyveromyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Kluyveromyces,,,,,,,NA,NA
+SYELPDGQVLALGNER,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QTLLFTATVTDALR,Schizosaccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Taphrinomycotina,,Schizosaccharomycetes,,,Schizosaccharomycetales,,,NA,Schizosaccharomycetaceae,,,,Schizosaccharomyces,,,,,,,NA,NA
+SGTLACTGSLVNNTANDR,Proteobacteria,Bacteria,,,NA,Proteobacteria,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+RVLGQLHGGPSSCSATGTNR,Proteobacteria,Bacteria,,,NA,Proteobacteria,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QDLPNAMNAAELTEK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+GVMVGMGQK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TTPSFVAFTETER,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TVLLMELLNNLAK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+AVCMLSNTTSLAEAWSR,Fungi,Eukaryota,Fungi,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+GELTRTFHPDMKLK,Bacillus,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Bacillales,,,NA,Bacillaceae,,,,Bacillus,,,,,,,NA,NA
+HQGLMVGMGQK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VLVVGNPANTNAYLAMK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TSFFQALGVPTK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ATYATSDFTLLELNNAANPAFNLFWAGWDR,Proteobacteria,Bacteria,,,NA,Proteobacteria,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ATYATSDFTLLELNNAANPAFNLFWAGWDRRDQNYPGALALHHPNVAEK,Proteobacteria,Bacteria,,,NA,Proteobacteria,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+AFVHWYVGEGMEEGEFTEAR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TTGLVLDSGDGVTHTVPLYEGYALPHALMR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+SDQYGRVFTSWTGGGAAASR,Proteobacteria,Bacteria,,,NA,Proteobacteria,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+MVPTSDRGR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+MHPGALQKAHELAK,Oxalobacteraceae,Bacteria,,,NA,Proteobacteria,,,Betaproteobacteria,,,Burkholderiales,,,NA,Oxalobacteraceae,,,,,,,,,,,NA,NA
+LLEVAPEVVSHNMETVK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LTNPSYGDLNHLVSAVMSGVTTCLR,Pezizomycotina,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,,,,,,,NA,,,,,,,,,,,,NA,NA
+DLYGNLVMSGGTTMYPGLADR,Fungi,Eukaryota,Fungi,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ALNVNDSVTK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+CLYVALGQK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QVHPDTGLSNK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+YSVWLGGSLLASLSTFQNLWCSK,Agaricomycetes,Eukaryota,Fungi,Dikarya,NA,Basidiomycota,Agaricomycotina,,Agaricomycetes,,,,,,NA,,,,,,,,,,,,NA,NA
+NSFEQLCLNYTNEK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VAPEEHPVLLTEAPLNPKQNR,Agaricomycotina,Eukaryota,Fungi,Dikarya,NA,Basidiomycota,Agaricomycotina,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LTLHGLQQFYLK,Fungi,Eukaryota,Fungi,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+MTQLMFETFNAPAFYVALQAVLSLYASGR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+YSVWLGGSLLASLTTFQQMWLSK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QSCELLERER,Saccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,,,,NA,NA
+TTGLVLDSGDGVTHVVPLYEGFSMPHALAR,Aspergillus,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Eurotiomycetes,Eurotiomycetidae,,Eurotiales,,,NA,Aspergillaceae,,,,Aspergillus,,,,,,,NA,NA
+TTGLVMDSGDGVTHTVPLYEGFSLPHALLR,Boletales,Eukaryota,Fungi,Dikarya,NA,Basidiomycota,Agaricomycotina,,Agaricomycetes,Agaricomycetidae,,Boletales,,,NA,,,,,,,,,,,,NA,NA
+LELWDTAGQER,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VANALPGKYNSNELLTSAASEAFHTATSK,Alphaherpesvirinae,Viruses,Heunggongvirae,,NA,Peploviricota,,,Herviviricetes,,,Herpesvirales,,,NA,Herpesviridae,Alphaherpesvirinae,,,,,,,,,,NA,NA
+NQAALNPENTVFDAK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QAFDDALAELDTLSEESYK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+DLYANVVLSGGTTMFPGLADR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QTELSNTELEVK,Kluyveromyces lactis,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Kluyveromyces,,,,Kluyveromyces lactis,,,NA,NA
+DKLPDLYPNLPYYNDLPPK,Candida,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Debaryomycetaceae,,,,Candida,,,,,,,NA,NA
+DLYSNLVMSGGTTMYPGLADR,Fungi,Eukaryota,Fungi,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EHALLAYTLGVR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+AVGLDLGTTYSCVAVWQNDR,Fungi,Eukaryota,Fungi,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ADLLNNLGTLAR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NLVLSGGSTLFK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TVQMVDWCPTGFK,Saccharomycetales,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,,,,,,,,,,,,NA,NA
+ELTALAPSSMK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ELLQDVTLHDLDVANARPQGGQDVLSMMGQLMK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ASGAGGQHLNTTDSAVR,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+FKPAYNPYTEPSMEVFGYHKGLK,Fungi,Eukaryota,Fungi,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+SGFAGDDAPR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TTGLVLDSGDGVTHTVPLYEGYSLPHALLR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TTGLVLDSGDGVTHTVPLYEGFSLPHALQR,Agaricomycotina,Eukaryota,Fungi,Dikarya,NA,Basidiomycota,Agaricomycotina,,,,,,,,NA,,,,,,,,,,,,NA,NA
+AGPFGQLFRPDNFVFVQSGAGNTWAK,Histoplasma capsulatum,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Eurotiomycetes,Eurotiomycetidae,,Onygenales,,,NA,Ajellomycetaceae,,,,Histoplasma,,,,Histoplasma capsulatum,,,NA,NA
+VLPELNGKLTGMAMR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+HKGVMVGMGQK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+FRAPEALFQPSLVGMETCGLHETTFNSLMK,Pneumocystis,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Taphrinomycotina,,Pneumocystidomycetes,,,Pneumocystidales,,,NA,Pneumocystidaceae,,,,Pneumocystis,,,,,,,NA,NA
+VTHAVVTVPAYFNDNQR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VSDTVVEPYNATLSMHQLVENSDETFCLDNEALYDLCMR,Trichoderma,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Sordariomycetes,Hypocreomycetidae,,Hypocreales,,,NA,Hypocreaceae,,,,Trichoderma,,,,,,,NA,NA
+DLDEVLLVGGSTR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ASPPVVYAQLK,Saccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,,,,NA,NA
+QVRFVPGWDCHGLPLELK,Synechococcales,Bacteria,,,NA,Cyanobacteria,,,,,,Synechococcales,,,NA,,,,,,,,,,,,NA,NA
+LMEQCWAYEPGQRPSFSALYQELQSLR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+GNPTVEVEVTTDK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+GHSFTTTAER,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+AGFAGDDVPK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LVFHPEFLSSANPVLPLDYDDFVR,Sordariaceae,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Sordariomycetes,Sordariomycetidae,,Sordariales,,,NA,Sordariaceae,,,,,,,,,,,NA,NA
+SLNMTLPVRALR,Schizosaccharomyces pombe 972h-,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Taphrinomycotina,,Schizosaccharomycetes,,,Schizosaccharomycetales,,,NA,Schizosaccharomycetaceae,,,,Schizosaccharomyces,,,,Schizosaccharomyces pombe,,Schizosaccharomyces pombe 972h-,NA,NA
+LLYDAEQGELNPK,Gammaproteobacteria,Bacteria,,,NA,Proteobacteria,,,Gammaproteobacteria,,,,,,NA,,,,,,,,,,,,NA,NA
+VAPEEHPCLLTEAPLNPK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VSDTVVEPYNATLSVHQLVENSDETFCLDNEALYELCMR,Pezizomycotina,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VLHDNFGLVEGLMTTVHATTATQK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EHALLAYTLGVRQLLVAVNK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+RPYPPGQHGQKR,Thermus,Bacteria,,,NA,Deinococcus-Thermus,,,Deinococci,,,Thermales,,,NA,Thermaceae,,,,Thermus,,,,,,,NA,NA
+TLKTTPYQDQKPGTSGLR,Hyphomicrobiales,Bacteria,,,NA,Proteobacteria,,,Alphaproteobacteria,,,Hyphomicrobiales,,,NA,,,,,,,,,,,,NA,NA
+LVSNASCTTNCLAPLAK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+HFGMVAGGTGLTPMLQVLR,Sordariomycetes,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Sordariomycetes,,,,,,NA,,,,,,,,,,,,NA,NA
+MAVAEGLSVEELEK,Colletotrichum,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Sordariomycetes,Hypocreomycetidae,,Glomerellales,,,NA,Glomerellaceae,,,,Colletotrichum,,,,,,,NA,NA
+DLTNYLMK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+KLVSNASCTTNCLAPLAK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VLHDNFGLVEGLMTTVHATTATQKTVDGPSHK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QTVCHHDMLKYFLRMLPSSMGFLDTYLAK,Saccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,,,,NA,NA
+NLDLERPTYENLNR,Schizosaccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Taphrinomycotina,,Schizosaccharomycetes,,,Schizosaccharomycetales,,,NA,Schizosaccharomycetaceae,,,,Schizosaccharomyces,,,,,,,NA,NA
+LCYVALDFEQEMQTAAQSSSLEK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QQSSSSTLATSLAQNQSNNNQEQELNSSLQKNLLK,Mycoplasma pneumoniae,Bacteria,,,NA,Tenericutes,,,Mollicutes,,,Mycoplasmatales,,,NA,Mycoplasmataceae,,,,Mycoplasma,,,,Mycoplasma pneumoniae,,,NA,NA
+PGGVLSAVVTER,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+AYEQSGVNLHAGYEAVERMSSHVK,Staphylococcus,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Bacillales,,,NA,Staphylococcaceae,,,,Staphylococcus,,,,,,,NA,NA
+SAKQVSKDEEK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+AFVHWYVGEAMEEGEFSEAR,Schizophyllum commune,Eukaryota,Fungi,Dikarya,NA,Basidiomycota,Agaricomycotina,,Agaricomycetes,Agaricomycetidae,,Agaricales,,,NA,Schizophyllaceae,,,,Schizophyllum,,,,Schizophyllum commune,,,NA,NA
+QTSRYQKDQQYWLDK,Bacillus subtilis group,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Bacillales,,,NA,Bacillaceae,,,,Bacillus,,Bacillus subtilis group,,,,,NA,NA
+RMEEAMYRSLR,Schizosaccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Taphrinomycotina,,Schizosaccharomycetes,,,Schizosaccharomycetales,,,NA,Schizosaccharomycetaceae,,,,Schizosaccharomyces,,,,,,,NA,NA
+SVEMHHEQLSEGLPGDNVGFNVK,Dikarya,Eukaryota,Fungi,Dikarya,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LLNEPTAASLAYGLDR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ALENPSRPFLALLGGAK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+YSVWLGGSLLASLSTFQQMWVSK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VPDVLYSLSEFTYWSK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ELLSNASDALDKR,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LSQPSYGDLNHLVSAVMSGVTTSLR,Penicillium,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Eurotiomycetes,Eurotiomycetidae,,Eurotiales,,,NA,Aspergillaceae,,,,Penicillium,,,,,,,NA,NA
+NQVAMNPSNTVFDAK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NQVAMNPHNTVFDAK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NQVALNPHNTVFDAK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LSPRRLLYPLSPAPFNTPCK,Human mastadenovirus C,Viruses,Bamfordvirae,,NA,Preplasmiviricota,,,Tectiliviricetes,,,Rowavirales,,,NA,Adenoviridae,,,,Mastadenovirus,,,,Human mastadenovirus C,,,NA,NA
+SRSPAALKR,Aspergillus,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Eurotiomycetes,Eurotiomycetidae,,Eurotiales,,,NA,Aspergillaceae,,,,Aspergillus,,,,,,,NA,NA
+ELLSEDLEDFEYTPKPEYPGLFTLFNEPDEK,Debaryomycetaceae,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Debaryomycetaceae,,,,,,,,,,,NA,NA
+REAEACDCLQGFQLTHSLGGGTGAGMGTLLLSK,Ascomycota,Eukaryota,Fungi,Dikarya,NA,Ascomycota,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+RLVNEPTAAALAYGLDK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TALALALSQELGSK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VSNPTDRGFRWSAAPR,Ictalurid herpesvirus 1,Viruses,Heunggongvirae,,NA,Peploviricota,,,Herviviricetes,,,Herpesvirales,,,NA,Alloherpesviridae,,,,Ictalurivirus,,,,Ictalurid herpesvirus 1,,,NA,NA
+VPTSDVSVVDLVCRLEK,Cryptococcus,Eukaryota,Fungi,Dikarya,NA,Basidiomycota,Agaricomycotina,,Tremellomycetes,,,Tremellales,,,NA,Cryptococcaceae,,,,Cryptococcus,,,,,,,NA,NA
+YVVLDEADR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LTDFGFCAQLNELNSK,Candida,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Debaryomycetaceae,,,,Candida,,,,,,,NA,NA
+LFEYGGYPPDANYLFLGDYVDR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TCETTLEK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+DLNVLSNASCTTNCLAPLAK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+DLEQYYSTQLDEMPMNVAELT,Cryptococcus,Eukaryota,Fungi,Dikarya,NA,Basidiomycota,Agaricomycotina,,Tremellomycetes,,,Tremellales,,,NA,Cryptococcaceae,,,,Cryptococcus,,,,,,,NA,NA
+AGHQTSAESWGTGR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+FSLPPPLQLVPEVQKPLHEQLWYHGALPR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+RLSNSTSPTSFVAWGGGAGTTHLNVQWQPSGGVTEPGSSGSPLYSPEK,Proteobacteria,Bacteria,,,NA,Proteobacteria,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+AFAQFGSDLGPSSQLLLDR,Mycoplasma,Bacteria,,,NA,Tenericutes,,,Mollicutes,,,Mycoplasmatales,,,NA,Mycoplasmataceae,,,,Mycoplasma,,,,,,,NA,NA
+ETPLYFAENLTK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NWTRERLTSLDELMER,Saccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,,,,NA,NA
+YMENPKYAHVEPK,Bacillus,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Bacillales,,,NA,Bacillaceae,,,,Bacillus,,,,,,,NA,NA
+ENRFASTNPFANR,Saccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,,,,NA,NA
+GGYLTTPMK,Saccharomycetaceae,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,,,,,,,,NA,NA
+RSPVSPVSR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NNAGYGTK,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NNNLTTGK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+YLCEPPLSLR,Saccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,,,,NA,NA
+QTLSNALPLCPFFNWK,Saccharomyces cerevisiae,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,Saccharomyces cerevisiae,,,NA,NA
+GLLKLRYPLEHGLVTDWDDMEK,Fungi,Eukaryota,Fungi,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+SYELPDGQVLTVGNER,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LWHHTYYNELR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TFSPQELSAMVLTK,Fungi,Eukaryota,Fungi,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LGNLLVPNNNYCK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EANFTVSSMHGEMPQK,Fungi,Eukaryota,Fungi,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+GFLLDGFPR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+AAVPSGASTGDREAVELR,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+AAAAVAAAR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+HTGPGDLSMANAGPNTNGSQFFLTTLK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+KVTHAVVTVPAYFNDNQR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+WGVMVSHR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EVREMESR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QANNFLWPFK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ALENPTRPFLALLGGAK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LPSAVGYQPTLATDMGAMQER,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+SGPLGDFFRPDNMVYGQSGAGNNWAK,Colletotrichum,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Sordariomycetes,Hypocreomycetidae,,Glomerellales,,,NA,Glomerellaceae,,,,Colletotrichum,,,,,,,NA,NA
+RRSHDALAVNLLNVCK,Mycoplasma,Bacteria,,,NA,Tenericutes,,,Mollicutes,,,Mycoplasmatales,,,NA,Mycoplasmataceae,,,,Mycoplasma,,,,,,,NA,NA
+SQNLTEEQLAEFK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EFVESSLQK,Encephalitozoon cuniculi,Eukaryota,Fungi,,NA,Microsporidia,,,,,,,Apansporoblastina,,NA,Unikaryonidae,,,,Encephalitozoon,,,,Encephalitozoon cuniculi,,,NA,NA
+SGPFGNLFRPDNFVFGQSGAGNNWAK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+GVSGSCNLDVVCPEGDGR,Proteobacteria,Bacteria,,,NA,Proteobacteria,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QLCDNAGFDSTNLLNK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QEYDEAGPTLVHR,Yarrowia lipolytica,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Dipodascaceae,,,,Yarrowia,,,,Yarrowia lipolytica,,,NA,NA
+LLNEPTAASLAYGLDK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+YEWLNALPK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+GVSGSCNLDVVCPEGDGRR,Proteobacteria,Bacteria,,,NA,Proteobacteria,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+KLGLDDLVHFDFMDPPAPETMMR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ETVEAYANDYR,Bacillus,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Bacillales,,,NA,Bacillaceae,,,,Bacillus,,,,,,,NA,NA
+RAAGTGARR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LLDDMVAACLK,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LMTANVFLENNKNPNCRLALTK,Haemophilus,Bacteria,,,NA,Proteobacteria,,,Gammaproteobacteria,,,Pasteurellales,,,NA,Pasteurellaceae,,,,Haemophilus,,,,,,,NA,NA
+SLAPELYGHEDVK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+DPPNFPFVVLGNK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ELFEQPDSAFNTMR,Saccharomycetales,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,,,,,,,,,,,,NA,NA
+TLKLTNPSYGDLNHLVSAVMSGVTTCLR,Pezizomycotina,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,,,,,,,NA,,,,,,,,,,,,NA,NA
+MSSTFLGNSTSLQELFK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EAESCDYLQGFQLTHSLGGGTGAGMGTLLLSK,Aspergillus,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Eurotiomycetes,Eurotiomycetidae,,Eurotiales,,,NA,Aspergillaceae,,,,Aspergillus,,,,,,,NA,NA
+YVECSALTQR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QLFHPEQLLSGK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+PFLLHGLLNK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LLNNNFTFR,Bacillus cereus group,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Bacillales,,,NA,Bacillaceae,,,,Bacillus,,Bacillus cereus group,,,,,NA,NA
+RDALLHDLHR,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NLDLERPSYENLNR,Schizosaccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Taphrinomycotina,,Schizosaccharomycetes,,,Schizosaccharomycetales,,,NA,Schizosaccharomycetaceae,,,,Schizosaccharomyces,,,,,,,NA,NA
+NFYGGNGLVGAQLPLGAGLGFAQK,Schizosaccharomyces pombe 972h-,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Taphrinomycotina,,Schizosaccharomycetes,,,Schizosaccharomycetales,,,NA,Schizosaccharomycetaceae,,,,Schizosaccharomyces,,,,Schizosaccharomyces pombe,,Schizosaccharomyces pombe 972h-,NA,NA
+GYLWNYGALPQTWENPHEVDR,Encephalitozoon cuniculi,Eukaryota,Fungi,,NA,Microsporidia,,,,,,,Apansporoblastina,,NA,Unikaryonidae,,,,Encephalitozoon,,,,Encephalitozoon cuniculi,,,NA,NA
+GLNPDEAVAYGAAVQAGVLSGEDGVEDLVLLDVNPLTLGLETTGGVMTK,Yarrowia lipolytica,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Dipodascaceae,,,,Yarrowia,,,,Yarrowia lipolytica,,,NA,NA
+NMLTGTSQADCALLLLGGGTGEFEAGLSKDGQTR,Dikarya,Eukaryota,Fungi,Dikarya,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EASLYTGLTLAEYYR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ELVSSPMVATYDK,Cyanobacteria,Bacteria,,,NA,Cyanobacteria,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+GFGFVCYSSPDEATK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TLTLEVEPSDSLENVK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NLDLERPGYENLNR,Pneumocystis,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Taphrinomycotina,,Pneumocystidomycetes,,,Pneumocystidales,,,NA,Pneumocystidaceae,,,,Pneumocystis,,,,,,,NA,NA
+MQLFVKTLTGKTLTVETEPGDTVGQVK,Alphabaculovirus,Viruses,,,NA,,,,Naldaviricetes,,,Lefavirales,,,NA,Baculoviridae,,,,Alphabaculovirus,,,,,,,NA,NA
+TLELMEEVAKRVEVNGLQAWWDLDAK,Enterobacteriaceae,Bacteria,,,NA,Proteobacteria,,,Gammaproteobacteria,,,Enterobacterales,,,NA,Enterobacteriaceae,,,,,,,,,,,NA,NA
+TNLLESMYYCSLGK,Clostridium kluyveri,Bacteria,,,NA,Firmicutes,,,Clostridia,,,Eubacteriales,,,NA,Clostridiaceae,,,,Clostridium,,,,Clostridium kluyveri,,,NA,NA
+LGLALNFSVFYYELQNSPDKACHLAK,Saccharomycetales,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,,,,,,,,,,,,NA,NA
+QEYFLVSASLQDLLR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+FEALAAHDALVECSGALNTLACSLFK,Saccharomycetaceae,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,,,,,,,,NA,NA
+NMLTGTSQADCALLLLAGGVGEFEAGLSK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+YPMSNEDLLSEK,Candida,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Debaryomycetaceae,,,,Candida,,,,,,,NA,NA
+ANLTGGLDALVDR,Paracoccus,Bacteria,,,NA,Proteobacteria,,,Alphaproteobacteria,,,Rhodobacterales,,,NA,Rhodobacteraceae,,,,Paracoccus,,,,,,,NA,NA
+LVKQLHENHNLLLNPQTQLGK,Bacillus subtilis group,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Bacillales,,,NA,Bacillaceae,,,,Bacillus,,Bacillus subtilis group,,,,,NA,NA
+TSSAQGETTEVSLR,Schizosaccharomyces pombe 972h-,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Taphrinomycotina,,Schizosaccharomycetes,,,Schizosaccharomycetales,,,NA,Schizosaccharomycetaceae,,,,Schizosaccharomyces,,,,Schizosaccharomyces pombe,,Schizosaccharomyces pombe 972h-,NA,NA
+RSLLLQTPYFLPDASLLDALR,Bacillus,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Bacillales,,,NA,Bacillaceae,,,,Bacillus,,,,,,,NA,NA
+VLGSGTTLDSAR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TLSFTNLSFQR,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LVNEPTAAALAYGLDK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+YPLEHGLVNNWDDMEK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TQGFLALFAGDTGELK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+RCLVFLNEK,[Candida] glabrata,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Nakaseomyces,,,,[Candida] glabrata,,,NA,NA
+MLKADDVKDGAVVLDVGMNR,Lactococcus,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Lactobacillales,,,NA,Streptococcaceae,,,,Lactococcus,,,,,,,NA,NA
+VETGVLKPGMVVTFAPANVTTEVK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NDPAKEAASFNAQVLVLNHPGQLGAGYAPVLDCHTAHLACK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+CLELDCWDGPNGPVVCHGHTFTSMLK,Schizosaccharomyces pombe 972h-,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Taphrinomycotina,,Schizosaccharomycetes,,,Schizosaccharomycetales,,,NA,Schizosaccharomycetaceae,,,,Schizosaccharomyces,,,,Schizosaccharomyces pombe,,Schizosaccharomyces pombe 972h-,NA,NA
+DEFCVCHLATGDMLR,Agaricomycetes,Eukaryota,Fungi,Dikarya,NA,Basidiomycota,Agaricomycotina,,Agaricomycetes,,,,,,NA,,,,,,,,,,,,NA,NA
+LYHPNLNSNGNLCLDLLK,Saccharomycetales,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,,,,,,,,,,,,NA,NA
+NLLLNNSMLQEK,Schizosaccharomyces pombe 972h-,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Taphrinomycotina,,Schizosaccharomycetes,,,Schizosaccharomycetales,,,NA,Schizosaccharomycetaceae,,,,Schizosaccharomyces,,,,Schizosaccharomyces pombe,,Schizosaccharomyces pombe 972h-,NA,NA
+NRTKYNPMR,Aspergillus,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Eurotiomycetes,Eurotiomycetidae,,Eurotiales,,,NA,Aspergillaceae,,,,Aspergillus,,,,,,,NA,NA
+QTNFNGQK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ASQSVTSK,Meyerozyma guilliermondii ATCC 6260,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Debaryomycetaceae,,,,Meyerozyma,,,,Meyerozyma guilliermondii,,Meyerozyma guilliermondii ATCC 6260,NA,NA
+YSVWLGGSLLASLSTFQNMWCSK,Agaricomycetes,Eukaryota,Fungi,Dikarya,NA,Basidiomycota,Agaricomycotina,,Agaricomycetes,,,,,,NA,,,,,,,,,,,,NA,NA
+PQQQQQQQPRGGYYPNRNQTSK,Candida albicans,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Debaryomycetaceae,,,,Candida,,,,Candida albicans,,,NA,NA
+MTQLFFETFNAPAFYVSLQAVLSLYASGR,Saccharomycetales,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,,,,,,,,,,,,NA,NA
+TATNSSSTGKEEMEEEETEER,Saccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,,,,NA,NA
+LAELGLYPAVDPLDSTSR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NLSFTVWDVGGQDR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+GHYTEGAELVDSVLDVVRR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+MMNAGLLK,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+DLLLAYEPVWALGTGK,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LVVVGASGVGK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NQVAMNPYNTVFDAK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LGGLGTVPVGRVETGLLKPGMVVSFAPSNVTTEVK,Agaricomycetes,Eukaryota,Fungi,Dikarya,NA,Basidiomycota,Agaricomycotina,,Agaricomycetes,,,,,,NA,,,,,,,,,,,,NA,NA
+SAAAAAAAAAAK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+AHQVVEDGYEFFSK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VVLLGQDPYHGPNQAHGLAFSVQPDAKFPPSLRNMYK,Staphylococcus,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Bacillales,,,NA,Staphylococcaceae,,,,Staphylococcus,,,,,,,NA,NA
+VSLEDLYNQLR,Clostridium,Bacteria,,,NA,Firmicutes,,,Clostridia,,,Eubacteriales,,,NA,Clostridiaceae,,,,Clostridium,,,,,,,NA,NA
+PVVVAYEPVWALGTGK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QGKLLSPEEELETMEWDANNGDDQQLLELVKR,[Candida] glabrata,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Nakaseomyces,,,,[Candida] glabrata,,,NA,NA
+LQALLEDLRER,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+HNVYNPNK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LLLAYEPVWALGTGK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NLVVAYEPVWALGTGK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+DCGSVNHLK,Saccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,,,,NA,NA
+KVEEAVLQSQGK,Saccharomycetales,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,,,,,,,,,,,,NA,NA
+GSEANNQRPAVVVSNDR,Mycobacterium,Bacteria,,,NA,Actinobacteria,,,Actinomycetia,,,Corynebacteriales,,,NA,Mycobacteriaceae,,,,Mycobacterium,,,,,,,NA,NA
+EVSQMLMSGLK,Synechococcales,Bacteria,,,NA,Cyanobacteria,,,,,,Synechococcales,,,NA,,,,,,,,,,,,NA,NA
+SFSPQELSAMVLTK,Dikarya,Eukaryota,Fungi,Dikarya,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LGGLGTVPVGRVETGTLK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QTLTNEERFLTPDLK,Cyanobacteria,Bacteria,,,NA,Cyanobacteria,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+CLYCGFCQEACPVDALVEGPNFEYATETREELLYDK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ERDWVLNEFR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LATAALASFFAGEK,Rhizobiaceae,Bacteria,,,NA,Proteobacteria,,,Alphaproteobacteria,,,Hyphomicrobiales,,,NA,Rhizobiaceae,,,,,,,,,,,NA,NA
+GYLSPYFLTNADK,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+AGLEMLLNK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+RTGALVDVPVGPELLGR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ENMALMHPLPRVNELK,Saccharomycetaceae,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,,,,,,,,NA,NA
+NGGFVYFAKTAEDAREYVK,Bacillus cereus group,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Bacillales,,,NA,Bacillaceae,,,,Bacillus,,Bacillus cereus group,,,,,NA,NA
+NRPSRSGR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VAPEEHPVLLTEAPMNPKNNR,Fungi,Eukaryota,Fungi,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NNVNVVYEK,Lactobacillus,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Lactobacillales,,,NA,Lactobacillaceae,,,,Lactobacillus,,,,,,,NA,NA
+TAAFLLPLLER,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+MQKELTALAPSSMK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LVLVGGSTR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QTLSTQFNVNLLGRAR,Shewanella,Bacteria,,,NA,Proteobacteria,,,Gammaproteobacteria,,,Alteromonadales,,,NA,Shewanellaceae,,,,Shewanella,,,,,,,NA,NA
+AELLNNLGTLAK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EGRYAYSLPLSDLK,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+HGQSAWNLENR,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VALTGLTMAEHFR,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LVNEPTAAALSYGLDK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+PGDNVGFNVK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QEYDESGPGLVYR,Schizosaccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Taphrinomycotina,,Schizosaccharomycetes,,,Schizosaccharomycetales,,,NA,Schizosaccharomycetaceae,,,,Schizosaccharomyces,,,,,,,NA,NA
+NGFLHVTDLGPLR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LDPAEEMAFR,Bacilli,Bacteria,,,NA,Firmicutes,,,Bacilli,,,,,,NA,,,,,,,,,,,,NA,NA
+LDELEELLDQTR,Bacillus,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Bacillales,,,NA,Bacillaceae,,,,Bacillus,,,,,,,NA,NA
+VLGMHFMNPVPVMK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EAKTTASSELPSASLR,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NMLTGTSQADCGLLLLAAGTGEFEAGLSK,Fungi,Eukaryota,Fungi,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+PQQQQQQQQQQQQLPKSESSTSLYSDGNK,Candida albicans,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Debaryomycetaceae,,,,Candida,,,,Candida albicans,,,NA,NA
+VLGLDLGTTNSCVAVMEGTQPK,Alphaproteobacteria,Bacteria,,,NA,Proteobacteria,,,Alphaproteobacteria,,,,,,NA,,,,,,,,,,,,NA,NA
+LYPEEMLQTGLSSLDVMNSLAR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VSDTVVEPYNATLSVHQLVEHSDETFCLDNDALYDLCLR,Aspergillus nidulans FGSC A4,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Eurotiomycetes,Eurotiomycetidae,,Eurotiales,,,NA,Aspergillaceae,,,,Aspergillus,Aspergillus subgen. Nidulantes,,,Aspergillus nidulans,,Aspergillus nidulans FGSC A4,NA,NA
+QTGVSEYALNK,Staphylococcus,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Bacillales,,,NA,Staphylococcaceae,,,,Staphylococcus,,,,,,,NA,NA
+LSEGLNFGGNLCR,[Candida] glabrata,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Nakaseomyces,,,,[Candida] glabrata,,,NA,NA
+CLYCGMCQEACPVDALVEGPNFEFSVETREELLYDK,Alphaproteobacteria,Bacteria,,,NA,Proteobacteria,,,Alphaproteobacteria,,,,,,NA,,,,,,,,,,,,NA,NA
+MLVLDEADELLNK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+RTGTQQRR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+GMLDPLEVHLLDFPNLTLK,Dikarya,Eukaryota,Fungi,Dikarya,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VGYNPKTVAFVPLSGWHGDNMLEESTNMPWYK,Agaricomycotina,Eukaryota,Fungi,Dikarya,NA,Basidiomycota,Agaricomycotina,,,,,,,,NA,,,,,,,,,,,,NA,NA
+HYAHGAHAK,Staphylococcus,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Bacillales,,,NA,Staphylococcaceae,,,,Staphylococcus,,,,,,,NA,NA
+ALENPERPFLALLGGAK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+MTQLMFETFNTPAFYVALQAVLSLYASGR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TVAQTETGR,Mycoplasma genitalium G37,Bacteria,,,NA,Tenericutes,,,Mollicutes,,,Mycoplasmatales,,,NA,Mycoplasmataceae,,,,Mycoplasma,,,,Mycoplasma genitalium,,Mycoplasma genitalium G37,NA,NA
+EEAAEAERR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LTNPSYGDLNHLVSAVMSGVSTSLR,Pezizomycotina,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,,,,,,,NA,,,,,,,,,,,,NA,NA
+DGYLSNGELYLVLK,Fungi,Eukaryota,Fungi,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NFNLNMDDYLEQTDNFKCFNDFFSRALK,Clostridium kluyveri,Bacteria,,,NA,Firmicutes,,,Clostridia,,,Eubacteriales,,,NA,Clostridiaceae,,,,Clostridium,,,,Clostridium kluyveri,,,NA,NA
+HLCHLGAK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EVFLSNFLKFNKPQDR,Gammaproteobacteria,Bacteria,,,NA,Proteobacteria,,,Gammaproteobacteria,,,,,,NA,,,,,,,,,,,,NA,NA
+EQVHPLHKQDGNAR,Saccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,,,,NA,NA
+LNSFDQWGVELGK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QVFEYCKGQLSNGNNLK,Haemophilus influenzae,Bacteria,,,NA,Proteobacteria,,,Gammaproteobacteria,,,Pasteurellales,,,NA,Pasteurellaceae,,,,Haemophilus,,,,Haemophilus influenzae,,,NA,NA
+CYNCGKPGHLAR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+DLFQQQKAMDTELK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LASQLATTLMGK,Schizosaccharomyces pombe 972h-,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Taphrinomycotina,,Schizosaccharomycetes,,,Schizosaccharomycetales,,,NA,Schizosaccharomycetaceae,,,,Schizosaccharomyces,,,,Schizosaccharomyces pombe,,Schizosaccharomyces pombe 972h-,NA,NA
+EDKNSPLQPLTK,Streptococcus,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Lactobacillales,,,NA,Streptococcaceae,,,,Streptococcus,,,,,,,NA,NA
+YLYNLHFMLEK,Saccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,,,,NA,NA
+FLNLKVPNLPK,Streptococcus,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Lactobacillales,,,NA,Streptococcaceae,,,,Streptococcus,,,,,,,NA,NA
+RGFAPFAWWR,Alphaproteobacteria,Bacteria,,,NA,Proteobacteria,,,Alphaproteobacteria,,,,,,NA,,,,,,,,,,,,NA,NA
+TGAVLLQTGK,Lactococcus,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Lactobacillales,,,NA,Streptococcaceae,,,,Lactococcus,,,,,,,NA,NA
+EVFQGPTLEEMAK,Bacillus,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Bacillales,,,NA,Bacillaceae,,,,Bacillus,,,,,,,NA,NA
+TVAVENCRSVSKR,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+AAVPSGASTGTK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+AVCMLSNTTALAEAWRR,Saccharomycetales,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,,,,,,,,,,,,NA,NA
+PVTHAVVTVPAYFNDAQR,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NQLESYAYSLK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LCYVALDFEQELETAAK,Aspergillus,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Eurotiomycetes,Eurotiomycetidae,,Eurotiales,,,NA,Aspergillaceae,,,,Aspergillus,,,,,,,NA,NA
+KYSVWLGGSLLASLSTFQQMWVSK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+FDGLLGMGYDTLSVNK,Pezizomycotina,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VLTSAGHRLVR,Schizosaccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Taphrinomycotina,,Schizosaccharomycetes,,,Schizosaccharomycetales,,,NA,Schizosaccharomycetaceae,,,,Schizosaccharomyces,,,,,,,NA,NA
+QTACLDLPLNNNESVK,Haemophilus,Bacteria,,,NA,Proteobacteria,,,Gammaproteobacteria,,,Pasteurellales,,,NA,Pasteurellaceae,,,,Haemophilus,,,,,,,NA,NA
+CLHNPQLDK,Meyerozyma guilliermondii ATCC 6260,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Debaryomycetaceae,,,,Meyerozyma,,,,Meyerozyma guilliermondii,,Meyerozyma guilliermondii ATCC 6260,NA,NA
+LNAAMSVAR,Dikarya,Eukaryota,Fungi,Dikarya,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EKEPQQQEK,Saccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,,,,NA,NA
+DAGTLAGLEVLR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TQYAEPLVESR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NQLENLLREK,Mimivirus,Viruses,Bamfordvirae,,NA,Nucleocytoviricota,,,Megaviricetes,,,Imitervirales,,,NA,Mimiviridae,,,,Mimivirus,,,,,,,NA,NA
+GHYTEGAELVDSVLDVLR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VFLLGEEVAQYNGAYK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+GLNPDEAVAFGAAVQAGVLSGEEGTEDLVLMDVNPLTLGLETTGGVMTK,Sordariomycetes,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Sordariomycetes,,,,,,NA,,,,,,,,,,,,NA,NA
+DVNNQDVLLFLDNLFR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+AEAERLKVNYASAFYPAR,Haemophilus,Bacteria,,,NA,Proteobacteria,,,Gammaproteobacteria,,,Pasteurellales,,,NA,Pasteurellaceae,,,,Haemophilus,,,,,,,NA,NA
+AHSSMVGVELPQK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LGDETFEVK,Bacillus,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Bacillales,,,NA,Bacillaceae,,,,Bacillus,,,,,,,NA,NA
+SYELPDGQVLTVGNERFR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QTLEVLTTMGK,Debaryomycetaceae,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Debaryomycetaceae,,,,,,,,,,,NA,NA
+QTLLANQYNK,Haemophilus influenzae,Bacteria,,,NA,Proteobacteria,,,Gammaproteobacteria,,,Pasteurellales,,,NA,Pasteurellaceae,,,,Haemophilus,,,,Haemophilus influenzae,,,NA,NA
+QTLGRHKAPK,Pezizomycotina,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ADKEEMER,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+AVLVDLEPGVMDAVR,Ascomycota,Eukaryota,Fungi,Dikarya,NA,Ascomycota,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LLEETLAQAR,Rhizobiaceae,Bacteria,,,NA,Proteobacteria,,,Alphaproteobacteria,,,Hyphomicrobiales,,,NA,Rhizobiaceae,,,,,,,,,,,NA,NA
+DYFYANGEGVKLPVLETDHYK,Schizosaccharomyces pombe 972h-,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Taphrinomycotina,,Schizosaccharomycetes,,,Schizosaccharomycetales,,,NA,Schizosaccharomycetaceae,,,,Schizosaccharomyces,,,,Schizosaccharomyces pombe,,Schizosaccharomyces pombe 972h-,NA,NA
+TLERDGFQLRR,Staphylococcus,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Bacillales,,,NA,Staphylococcaceae,,,,Staphylococcus,,,,,,,NA,NA
+KMETEVQK,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EADGSDSLEGFMFLHSLAGGTGSGLGSFLLER,Fungi,Eukaryota,Fungi,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TAGLEPVALEARVKLAVPPAR,Prochlorococcus marinus,Bacteria,,,NA,Cyanobacteria,,,,,,Synechococcales,,,NA,Prochloraceae,,,,Prochlorococcus,,,,Prochlorococcus marinus,,,NA,NA
+SAPVRVRAAR,Corynebacterium,Bacteria,,,NA,Actinobacteria,,,Actinomycetia,,,Corynebacteriales,,,NA,Corynebacteriaceae,,,,Corynebacterium,,,,,,,NA,NA
+VSDTVVEPYNATLSNHQLVENSDETFCLDNEALYDLCMR,Histoplasma capsulatum,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Eurotiomycetes,Eurotiomycetidae,,Onygenales,,,NA,Ajellomycetaceae,,,,Histoplasma,,,,Histoplasma capsulatum,,,NA,NA
+FEELCQDLFR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LVAPQLYLAVGLSGALQHLAGMK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+GLMPDGTTR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EVMSAAFKLDK,Streptococcus agalactiae,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Lactobacillales,,,NA,Streptococcaceae,,,,Streptococcus,,,,Streptococcus agalactiae,,,NA,NA
+LLSNQLQDRQAFQNAPHAMQFVLRNGGK,Saccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,,,,NA,NA
+EVPDLSPEK,Rhizobiaceae,Bacteria,,,NA,Proteobacteria,,,Alphaproteobacteria,,,Hyphomicrobiales,,,NA,Rhizobiaceae,,,,,,,,,,,NA,NA
+YSVWLGGSLLASLSTFQQMWVSKQEYDESGPSLVHR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QTVMFTATWPPLVR,Aspergillus nidulans FGSC A4,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Eurotiomycetes,Eurotiomycetidae,,Eurotiales,,,NA,Aspergillaceae,,,,Aspergillus,Aspergillus subgen. Nidulantes,,,Aspergillus nidulans,,Aspergillus nidulans FGSC A4,NA,NA
+DGLDDESYESVFK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LGGEDFDNR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NYVPSDQDLLR,Sordariomycetes,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Sordariomycetes,,,,,,NA,,,,,,,,,,,,NA,NA
+LFNYSSSEENKNSNKDETPK,Clostridium perfringens,Bacteria,,,NA,Firmicutes,,,Clostridia,,,Eubacteriales,,,NA,Clostridiaceae,,,,Clostridium,,,,Clostridium perfringens,,,NA,NA
+DLNVLSNASCTTNCLAPLAKVLNDK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+GFGFVCFANPDDATK,Sordariomycetes,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Sordariomycetes,,,,,,NA,,,,,,,,,,,,NA,NA
+FELYQLLQELAK,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+AVDSLLNYETVK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+MALKDFLDKNK,Encephalitozoon cuniculi,Eukaryota,Fungi,,NA,Microsporidia,,,,,,,Apansporoblastina,,NA,Unikaryonidae,,,,Encephalitozoon,,,,Encephalitozoon cuniculi,,,NA,NA
+QTAKNCCK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NFHLFYQFTKGASENYR,Ascomycota,Eukaryota,Fungi,Dikarya,NA,Ascomycota,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VSNWYHQK,Saccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,,,,NA,NA
+EQLEKMTHGK,Staphylococcus epidermidis,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Bacillales,,,NA,Staphylococcaceae,,,,Staphylococcus,,,,Staphylococcus epidermidis,,,NA,NA
+LYYHRLMK,Aspergillus nidulans FGSC A4,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Eurotiomycetes,Eurotiomycetidae,,Eurotiales,,,NA,Aspergillaceae,,,,Aspergillus,Aspergillus subgen. Nidulantes,,,Aspergillus nidulans,,Aspergillus nidulans FGSC A4,NA,NA
+MNPYETELYKVVPLPNK,Schizosaccharomyces pombe 972h-,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Taphrinomycotina,,Schizosaccharomycetes,,,Schizosaccharomycetales,,,NA,Schizosaccharomycetaceae,,,,Schizosaccharomyces,,,,Schizosaccharomyces pombe,,Schizosaccharomyces pombe 972h-,NA,NA
+NFHVHNPNLELELK,Mycoplasma,Bacteria,,,NA,Tenericutes,,,Mollicutes,,,Mycoplasmatales,,,NA,Mycoplasmataceae,,,,Mycoplasma,,,,,,,NA,NA
+TLATDLLMGLLK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TQLPTPLTPK,Aspergillus,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Eurotiomycetes,Eurotiomycetidae,,Eurotiales,,,NA,Aspergillaceae,,,,Aspergillus,,,,,,,NA,NA
+YVYLNMMKLRPSK,Ictalurid herpesvirus 1,Viruses,Heunggongvirae,,NA,Peploviricota,,,Herviviricetes,,,Herpesvirales,,,NA,Alloherpesviridae,,,,Ictalurivirus,,,,Ictalurid herpesvirus 1,,,NA,NA
+NDVKLGVLTYK,Alphaproteobacteria,Bacteria,,,NA,Proteobacteria,,,Alphaproteobacteria,,,,,,NA,,,,,,,,,,,,NA,NA
+EVFKFAVR,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TCFLSWR,Schizosaccharomyces pombe 972h-,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Taphrinomycotina,,Schizosaccharomycetes,,,Schizosaccharomycetales,,,NA,Schizosaccharomycetaceae,,,,Schizosaccharomyces,,,,Schizosaccharomyces pombe,,Schizosaccharomyces pombe 972h-,NA,NA
+PGEESYPETRK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LEQQMYKFAQDLEFEK,Pasteurellaceae,Bacteria,,,NA,Proteobacteria,,,Gammaproteobacteria,,,Pasteurellales,,,NA,Pasteurellaceae,,,,,,,,,,,NA,NA
+EEWDRGSEERWK,Encephalitozoon cuniculi,Eukaryota,Fungi,,NA,Microsporidia,,,,,,,Apansporoblastina,,NA,Unikaryonidae,,,,Encephalitozoon,,,,Encephalitozoon cuniculi,,,NA,NA
+LWHHTYFNELR,Aspergillus,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Eurotiomycetes,Eurotiomycetidae,,Eurotiales,,,NA,Aspergillaceae,,,,Aspergillus,,,,,,,NA,NA
+QTLKTMFLHMK,Staphylococcus,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Bacillales,,,NA,Staphylococcaceae,,,,Staphylococcus,,,,,,,NA,NA
+QTWFYQKK,Haemophilus,Bacteria,,,NA,Proteobacteria,,,Gammaproteobacteria,,,Pasteurellales,,,NA,Pasteurellaceae,,,,Haemophilus,,,,,,,NA,NA
+VLKLANLSVVNNEPVSLDTHLLNR,Enterobacteriaceae,Bacteria,,,NA,Proteobacteria,,,Gammaproteobacteria,,,Enterobacterales,,,NA,Enterobacteriaceae,,,,,,,,,,,NA,NA
+VVTRFPPEPNGLLHLGHAK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LTGMAMRVPTANVSVVDLTCR,Pezizomycotina,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EAAQYVTEADRFVGATLTPQHLLFNRNALFTGGLR,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+HEPVGVCGELLPWNLPLLMYLWK,Saccharomyces cerevisiae,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,Saccharomyces cerevisiae,,,NA,NA
+PMCVEAFSEYPPLGR,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EVGYMFGMYKK,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NPLVQLMFALHAYK,Curvularia clavata,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Dothideomycetes,Pleosporomycetidae,,Pleosporales,Pleosporineae,,NA,Pleosporaceae,,,,Curvularia,,,,Curvularia clavata,,,NA,NA
+GLAVHHGGLLPLLK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LLDDMVAQMLK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+SSFDWTVK,Penicillium,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Eurotiomycetes,Eurotiomycetidae,,Eurotiales,,,NA,Aspergillaceae,,,,Penicillium,,,,,,,NA,NA
+EVFSLPAAQQVQELQRR,Aspergillus nidulans FGSC A4,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Eurotiomycetes,Eurotiomycetidae,,Eurotiales,,,NA,Aspergillaceae,,,,Aspergillus,Aspergillus subgen. Nidulantes,,,Aspergillus nidulans,,Aspergillus nidulans FGSC A4,NA,NA
+QRVNYYALADMRMK,Ostreavirus,Viruses,Heunggongvirae,,NA,Peploviricota,,,Herviviricetes,,,Herpesvirales,,,NA,Malacoherpesviridae,,,,Ostreavirus,,,,,,,NA,NA
+NQLQLEGLR,Debaryomycetaceae,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Debaryomycetaceae,,,,,,,,,,,NA,NA
+WCLAHHK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+PEYQLVSNASCTTNCLAPLAK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+DWHKSAHKK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EAYSGCYGR,Saccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,,,,NA,NA
+VKPHVNVGTLGHVDHGK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+GYSFTNSAERELVR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LGRLEDVTPVPSDSTR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+HLQLALRNDEELHK,Agaricomycetes,Eukaryota,Fungi,Dikarya,NA,Basidiomycota,Agaricomycotina,,Agaricomycetes,,,,,,NA,,,,,,,,,,,,NA,NA
+QTWMQHR,Saccharomyces cerevisiae,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,Saccharomyces cerevisiae,,,NA,NA
+LNMSYPFASRYLDQFPK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QETETANTMNLPLLLK,Vanderwaltozyma polyspora DSM 70294,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Vanderwaltozyma,,,,Vanderwaltozyma polyspora,,Vanderwaltozyma polyspora DSM 70294,NA,NA
+LVPVDLYVPGCPPTAEALLYGLLQLQR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VELALWDTAGQEDYDR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LLGAHLDSPR,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+AAPATGGVK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+KRNFSATGNFGFGLQEHLDLGLK,Dikarya,Eukaryota,Fungi,Dikarya,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QTHLLSTLQHK,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NLFGLLLQLPGK,Prochlorococcus marinus,Bacteria,,,NA,Cyanobacteria,,,,,,Synechococcales,,,NA,Prochloraceae,,,,Prochlorococcus,,,,Prochlorococcus marinus,,,NA,NA
+VLSNASCTTNCLAPLAK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TSMNPPPLRTGPR,Saccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,,,,NA,NA
+LTELLNTKHQNVK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TTGLVLDSGDGVTHVVPLYEGFSLPHALSR,Pezizomycotina,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NQVAMNPLNTVFDAK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+MTQLMFETFNAPAFYVSLQAVLSLYASGR,Fungi,Eukaryota,Fungi,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+CYQLPPAGR,Dikarya,Eukaryota,Fungi,Dikarya,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+PFVLPVPAFNVLNGGSHAGNK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QTWLDYFTAK,Mycoplasma pneumoniae,Bacteria,,,NA,Tenericutes,,,Mollicutes,,,Mycoplasmatales,,,NA,Mycoplasmataceae,,,,Mycoplasma,,,,Mycoplasma pneumoniae,,,NA,NA
+ETLTAEELRLEGLRK,Kluyveromyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Kluyveromyces,,,,,,,NA,NA
+EVDLGLPDPTGRLELLSLHTK,Pezizomycotina,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LSSTLNSKNPR,Saccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,,,,NA,NA
+RARPGQWR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+AGGSSEEPSGENPPKTSPKSNVAFSFLPDYR,Aspergillus,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Eurotiomycetes,Eurotiomycetidae,,Eurotiales,,,NA,Aspergillaceae,,,,Aspergillus,,,,,,,NA,NA
+LCYVALDFEQEMQTASQSSAVEKSYELPDGQVLTLGNER,Kluyveromyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Kluyveromyces,,,,,,,NA,NA
+QTQDPLTKR,Mycoplasma genitalium G37,Bacteria,,,NA,Tenericutes,,,Mollicutes,,,Mycoplasmatales,,,NA,Mycoplasmataceae,,,,Mycoplasma,,,,Mycoplasma genitalium,,Mycoplasma genitalium G37,NA,NA
+QTDPTLAPYAK,Bacilli,Bacteria,,,NA,Firmicutes,,,Bacilli,,,,,,NA,,,,,,,,,,,,NA,NA
+GLYPAVDPLDSTSR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+MKKDLHPEYR,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TYFPNDYPKEANK,Schizosaccharomyces pombe 972h-,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Taphrinomycotina,,Schizosaccharomycetes,,,Schizosaccharomycetales,,,NA,Schizosaccharomycetaceae,,,,Schizosaccharomyces,,,,Schizosaccharomyces pombe,,Schizosaccharomyces pombe 972h-,NA,NA
+TPFTLMFGPDK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+KGFQFNLMVVGQSGLGK,Saccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,,,,NA,NA
+LLSHAHWTMEK,Sordariaceae,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Sordariomycetes,Sordariomycetidae,,Sordariales,,,NA,Sordariaceae,,,,,,,,,,,NA,NA
+VGKWEQRAK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QNMTSPPR,Cryptococcus,Eukaryota,Fungi,Dikarya,NA,Basidiomycota,Agaricomycotina,,Tremellomycetes,,,Tremellales,,,NA,Cryptococcaceae,,,,Cryptococcus,,,,,,,NA,NA
+EEDEEEGPK,Saccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,,,,NA,NA
+DMETLKTKFMTTK,Eremothecium gossypii ATCC 10895,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Eremothecium,,,,Eremothecium gossypii,,Eremothecium gossypii ATCC 10895,NA,NA
+PADKKAGEK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EVFSKPLQK,Schizosaccharomyces pombe 972h-,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Taphrinomycotina,,Schizosaccharomycetes,,,Schizosaccharomycetales,,,NA,Schizosaccharomycetaceae,,,,Schizosaccharomyces,,,,Schizosaccharomyces pombe,,Schizosaccharomyces pombe 972h-,NA,NA
+EDYYMPR,Haemophilus,Bacteria,,,NA,Proteobacteria,,,Gammaproteobacteria,,,Pasteurellales,,,NA,Pasteurellaceae,,,,Haemophilus,,,,,,,NA,NA
+DAGQLAGLNVLR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TTGLVLDSGDGVTHTVPLYEGFSLPHALLR,Dikarya,Eukaryota,Fungi,Dikarya,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LAVNMLPFPR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VTLVQSLLLMGWYWEGPEDVTKNVFYWSR,Pezizomycotina,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LLNEPTAAALAFGLEK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QVHPDTGLSNR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+PNFLEAFGEEAGTEKFQELK,Bacilli,Bacteria,,,NA,Firmicutes,,,Bacilli,,,,,,NA,,,,,,,,,,,,NA,NA
+ETTNNEEPKK,Mycoplasma pneumoniae,Bacteria,,,NA,Tenericutes,,,Mollicutes,,,Mycoplasmatales,,,NA,Mycoplasmataceae,,,,Mycoplasma,,,,Mycoplasma pneumoniae,,,NA,NA
+EMLVGQLEEQLK,Yarrowia lipolytica,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Dipodascaceae,,,,Yarrowia,,,,Yarrowia lipolytica,,,NA,NA
+DDEVAALVLDNGSGMCK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LPSAVGYQPTLATEMGSLQER,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+DGYYLNAQCALLMFDVTSR,Saccharomycetales,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,,,,,,,,,,,,NA,NA
+NELLDEVMLGVMLAPK,Streptococcus agalactiae,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Lactobacillales,,,NA,Streptococcaceae,,,,Streptococcus,,,,Streptococcus agalactiae,,,NA,NA
+TGAGLMDAKR,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NTLENYAYSLK,Schizosaccharomyces pombe 972h-,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Taphrinomycotina,,Schizosaccharomycetes,,,Schizosaccharomycetales,,,NA,Schizosaccharomycetaceae,,,,Schizosaccharomyces,,,,Schizosaccharomyces pombe,,Schizosaccharomyces pombe 972h-,NA,NA
+QTQLNNLEK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LRAMMDADGNQRK,Thermus,Bacteria,,,NA,Deinococcus-Thermus,,,Deinococci,,,Thermales,,,NA,Thermaceae,,,,Thermus,,,,,,,NA,NA
+VEDVLGLPQNTMK,Mycobacterium tuberculosis complex,Bacteria,,,NA,Actinobacteria,,,Actinomycetia,,,Corynebacteriales,,,NA,Mycobacteriaceae,,,,Mycobacterium,,Mycobacterium tuberculosis complex,,,,,NA,NA
+VFVDDPEGMATLLALVNAEK,Aspergillus terreus,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Eurotiomycetes,Eurotiomycetidae,,Eurotiales,,,NA,Aspergillaceae,,,,Aspergillus,Aspergillus subgen. Circumdati,,,Aspergillus terreus,,,NA,NA
+CLYCGFCQEACPVDALVEGPNFEFATETREELYFDK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VSDTVVEPYNATLSLHQLVENSDETFCLDNEALYDLCMR,Fungi,Eukaryota,Fungi,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VAPEEHPVLLTEAPMNPKLNR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NKPHLNLGTLGHVDHGK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VSDTVVEPYNATLSVHQLVEHADETFCLDNEALYDLCTR,Aspergillus,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Eurotiomycetes,Eurotiomycetidae,,Eurotiales,,,NA,Aspergillaceae,,,,Aspergillus,,,,,,,NA,NA
+KNLQTFLMSATLNDDLQALK,Saccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,,,,NA,NA
+VLNNESLPPPLNK,Mimivirus,Viruses,Bamfordvirae,,NA,Nucleocytoviricota,,,Megaviricetes,,,Imitervirales,,,NA,Mimiviridae,,,,Mimivirus,,,,,,,NA,NA
+NMLLLPEMVGSVVGLYNGK,Schizosaccharomyces pombe 972h-,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Taphrinomycotina,,Schizosaccharomycetes,,,Schizosaccharomycetales,,,NA,Schizosaccharomycetaceae,,,,Schizosaccharomyces,,,,Schizosaccharomyces pombe,,Schizosaccharomyces pombe 972h-,NA,NA
+LDLLANDQGNR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+HESCGKCTPCR,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EFVVPSRLNPGK,Schizosaccharomyces pombe 972h-,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Taphrinomycotina,,Schizosaccharomycetes,,,Schizosaccharomycetales,,,NA,Schizosaccharomycetaceae,,,,Schizosaccharomyces,,,,Schizosaccharomyces pombe,,Schizosaccharomyces pombe 972h-,NA,NA
+VLLSAPSADAPMFVMGVNHK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LHFFMVGFAPLTSR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+KGLLFVGSGVSGGEEGAR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ESDELNKYLNLCSLK,Fusobacterium,Bacteria,,,NA,Fusobacteria,,,Fusobacteriia,,,Fusobacteriales,,,NA,Fusobacteriaceae,,,,Fusobacterium,,,,,,,NA,NA
+GFGFVTYDSADAVDRVCQNKFLDFK,Saccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,,,,NA,NA
+AVDWNFEK,Alphabaculovirus,Viruses,,,NA,,,,Naldaviricetes,,,Lefavirales,,,NA,Baculoviridae,,,,Alphabaculovirus,,,,,,,NA,NA
+EMVLSRVRQR,Gammaproteobacteria,Bacteria,,,NA,Proteobacteria,,,Gammaproteobacteria,,,,,,NA,,,,,,,,,,,,NA,NA
+LLNEPTAAALAFGLDKNEKGDR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LLNEPTAAALAFGLDK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EVNNMVVKQLSK,Mimivirus,Viruses,Bamfordvirae,,NA,Nucleocytoviricota,,,Megaviricetes,,,Imitervirales,,,NA,Mimiviridae,,,,Mimivirus,,,,,,,NA,NA
+LVVLGSLFLNR,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VLLSAPSADAPMFVVGVNLDK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QFAKAHEK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+PSNLLLNSNCDLK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ELRKDDAQGFSR,Saccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,,,,NA,NA
+TTPSFVAFTDTER,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VSHLSTGGGASLELLEGK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+MNVNEVLSNR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+GVLLNTASVAAFDGQLGQAAYSASK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+GVLLYGLPGTGK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TLVGHDNWVR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QQAFFESEVK,Mycoplasma genitalium G37,Bacteria,,,NA,Tenericutes,,,Mollicutes,,,Mycoplasmatales,,,NA,Mycoplasmataceae,,,,Mycoplasma,,,,Mycoplasma genitalium,,Mycoplasma genitalium G37,NA,NA
+VSDTVVEPYNATLSMHQLVENSDK,Trichoderma,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Sordariomycetes,Hypocreomycetidae,,Hypocreales,,,NA,Hypocreaceae,,,,Trichoderma,,,,,,,NA,NA
+LFGAMYLHMQEPK,Streptococcus,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Lactobacillales,,,NA,Streptococcaceae,,,,Streptococcus,,,,,,,NA,NA
+NLFQHKHQK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LLTHGLGGEGYLNFEGNEFGHPEWLDFPR,Fungi,Eukaryota,Fungi,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LVSWYDNEFGYSNR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LLESLNTLTTK,Mimivirus,Viruses,Bamfordvirae,,NA,Nucleocytoviricota,,,Megaviricetes,,,Imitervirales,,,NA,Mimiviridae,,,,Mimivirus,,,,,,,NA,NA
+EPFESSTLNLK,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TTPSFVAFTDTERLLGDAAK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LMNVLGEPVDER,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QHLNLVVLGHVDSGK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LCYVALDFEQELETAAKSSSLEK,Aspergillus,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Eurotiomycetes,Eurotiomycetidae,,Eurotiales,,,NA,Aspergillaceae,,,,Aspergillus,,,,,,,NA,NA
+YFPTQALNFAFRDK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TTGLVLDSGDGVTHVVPLYEGFSLPHALAR,Pezizomycotina,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QTRTTPLLLTSPDK,Ostreavirus,Viruses,Heunggongvirae,,NA,Peploviricota,,,Herviviricetes,,,Herpesvirales,,,NA,Malacoherpesviridae,,,,Ostreavirus,,,,,,,NA,NA
+QTFSLNDFSLRPVLK,Kluyveromyces lactis,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Kluyveromyces,,,,Kluyveromyces lactis,,,NA,NA
+RTEEEEEQK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LEWHQALLR,Enterobacterales,Bacteria,,,NA,Proteobacteria,,,Gammaproteobacteria,,,Enterobacterales,,,NA,,,,,,,,,,,,NA,NA
+APLLVATAVAAR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LCYVALDFEQEMQTAAQSSQLEK,Agaricomycotina,Eukaryota,Fungi,Dikarya,NA,Basidiomycota,Agaricomycotina,,,,,,,,NA,,,,,,,,,,,,NA,NA
+KEAEGTDCLQGFQLTHSLGGGTGAGMGTLLMSK,Boletales,Eukaryota,Fungi,Dikarya,NA,Basidiomycota,Agaricomycotina,,Agaricomycetes,Agaricomycetidae,,Boletales,,,NA,,,,,,,,,,,,NA,NA
+RNQTVTEETLRK,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TLTLTDTGLGMTK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+AFSPTSLNTGR,Sordariomycetes,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Sordariomycetes,,,,,,NA,,,,,,,,,,,,NA,NA
+HQGLMVGMGQRDSYVGDEAQSK,Debaryomycetaceae,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Debaryomycetaceae,,,,,,,,,,,NA,NA
+QLFVGPPENTR,Schizosaccharomyces pombe 972h-,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Taphrinomycotina,,Schizosaccharomycetes,,,Schizosaccharomycetales,,,NA,Schizosaccharomycetaceae,,,,Schizosaccharomyces,,,,Schizosaccharomyces pombe,,Schizosaccharomyces pombe 972h-,NA,NA
+TMLELLNQLDGFSSSEEVK,Encephalitozoon,Eukaryota,Fungi,,NA,Microsporidia,,,,,,,Apansporoblastina,,NA,Unikaryonidae,,,,Encephalitozoon,,,,,,,NA,NA
+GFGFVCFSTPEEATK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QSSTPLQRTQTTGR,Betapapillomavirus 1,Viruses,Shotokuvirae,,NA,Cossaviricota,,,Papovaviricetes,,,Zurhausenvirales,,,NA,Papillomaviridae,Firstpapillomavirinae,,,Betapapillomavirus,,,,Betapapillomavirus 1,,,NA,NA
+KYFTAFTLSDNPPK,Human betaherpesvirus 7,Viruses,Heunggongvirae,,NA,Peploviricota,,,Herviviricetes,,,Herpesvirales,,,NA,Herpesviridae,Betaherpesvirinae,,,Roseolovirus,,,,Human betaherpesvirus 7,,,NA,NA
+QTSAEANK,Schizosaccharomyces pombe 972h-,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Taphrinomycotina,,Schizosaccharomycetes,,,Schizosaccharomycetales,,,NA,Schizosaccharomycetaceae,,,,Schizosaccharomyces,,,,Schizosaccharomyces pombe,,Schizosaccharomyces pombe 972h-,NA,NA
+PSPLQEESLPMALAGR,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TAAFLLPMVEK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VLNALQTAER,Bacillus subtilis,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Bacillales,,,NA,Bacillaceae,,,,Bacillus,,Bacillus subtilis group,,Bacillus subtilis,,,NA,NA
+MAKNEVHELVLVGGSTR,Blastocladiella emersonii,Eukaryota,Fungi,,NA,Blastocladiomycota,,,Blastocladiomycetes,,,Blastocladiales,,,NA,Blastocladiaceae,,,,Blastocladiella,,,,Blastocladiella emersonii,,,NA,NA
+AAGVNVETLRFYQRK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+GDLGLELPAPK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NFNMNLKNVKDK,Staphylococcus epidermidis,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Bacillales,,,NA,Staphylococcaceae,,,,Staphylococcus,,,,Staphylococcus epidermidis,,,NA,NA
+ENTEGEYSGLEHESVPGVVESLK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EAGTVGPLLGR,Gammaproteobacteria,Bacteria,,,NA,Proteobacteria,,,Gammaproteobacteria,,,,,,NA,,,,,,,,,,,,NA,NA
+FLSQPFHVAEVFTGLPGK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+YDSVLAVGAVDSNSNR,Bacillus,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Bacillales,,,NA,Bacillaceae,,,,Bacillus,,,,,,,NA,NA
+EVMELYKREK,Proteobacteria,Bacteria,,,NA,Proteobacteria,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+RLSNSTSPTSFVAWGGGAGTTHLNVQWQPSGGVTEPGSSGSPLYSPEKR,Proteobacteria,Bacteria,,,NA,Proteobacteria,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+AGTATKLVCNMLTTTLMLKLGK,Mycoplasma,Bacteria,,,NA,Tenericutes,,,Mollicutes,,,Mycoplasmatales,,,NA,Mycoplasmataceae,,,,Mycoplasma,,,,,,,NA,NA
+YLDQLDELYEDFHLVK,Saccharomycetaceae,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,,,,,,,,NA,NA
+AGFAGDDLPK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+MNKQEFGHECK,Cryptococcus,Eukaryota,Fungi,Dikarya,NA,Basidiomycota,Agaricomycotina,,Tremellomycetes,,,Tremellales,,,NA,Cryptococcaceae,,,,Cryptococcus,,,,,,,NA,NA
+VVDLLAYLAK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+PDHPMHVPAPK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ALDCSSKELQQYNLESVKGTYSLSNLK,Lodderomyces elongisporus NRRL YB-4239,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Debaryomycetaceae,,,,Lodderomyces,,,,Lodderomyces elongisporus,,Lodderomyces elongisporus NRRL YB-4239,NA,NA
+LVVCVLADGRQK,Pezizomycotina,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,,,,,,,NA,,,,,,,,,,,,NA,NA
+YFPTQALNFAFR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LVLAYEPVWALGTGK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VLPNFMLQGGDLTK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ELERVLNFPQSNLCLK,Enterobacteriaceae,Bacteria,,,NA,Proteobacteria,,,Gammaproteobacteria,,,Enterobacterales,,,NA,Enterobacteriaceae,,,,,,,,,,,NA,NA
+TWTQSTEKDFRPLLMTWWPDQETQR,Streptococcus,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Lactobacillales,,,NA,Streptococcaceae,,,,Streptococcus,,,,,,,NA,NA
+GFPGYMYTDLSTLYER,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VMEVSELLNGKHPFVVGKCFK,Mycoplasma genitalium G37,Bacteria,,,NA,Tenericutes,,,Mollicutes,,,Mycoplasmatales,,,NA,Mycoplasmataceae,,,,Mycoplasma,,,,Mycoplasma genitalium,,Mycoplasma genitalium G37,NA,NA
+AAVPSGASTGVHEAHELRDGGER,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TQRAAPAVVVQPSHK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LLLTEPPMNPVANR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+HTGPGLLSMANAGR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VLKQTHPDTGLSQKAMSLMNSFVNDLFER,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+GYTFTTTAER,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VETGVLKPGMVVTFAPSNVTTEVK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+HVLLFDLGGGTFDVSLLHLAGGVYTVK,Saccharomycetales,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,,,,,,,,,,,,NA,NA
+PLNLSKPLSPPPSLK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LRQMHPNVLK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LHFFMVGFAPLTARGSQQYR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NLLVSNWTR,Saccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,,,,NA,NA
+TAENDEEGSR,Aspergillus nidulans FGSC A4,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Eurotiomycetes,Eurotiomycetidae,,Eurotiales,,,NA,Aspergillaceae,,,,Aspergillus,Aspergillus subgen. Nidulantes,,,Aspergillus nidulans,,Aspergillus nidulans FGSC A4,NA,NA
+TNSFENSR,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LNVYYNEASGNK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ALGLDLGTTYSCVAVWQNDR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+KLFGVTTLDVLR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+DLYGNVVMSGGTTMYPGLADR,Schizosaccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Taphrinomycotina,,Schizosaccharomycetes,,,Schizosaccharomycetales,,,NA,Schizosaccharomycetaceae,,,,Schizosaccharomyces,,,,,,,NA,NA
+ETNQNLDMLMGMLKDYMR,Bacillus subtilis,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Bacillales,,,NA,Bacillaceae,,,,Bacillus,,Bacillus subtilis group,,Bacillus subtilis,,,NA,NA
+TYDPSVNVLSNASCTTNCLAPLAK,Histoplasma capsulatum,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Eurotiomycetes,Eurotiomycetidae,,Onygenales,,,NA,Ajellomycetaceae,,,,Histoplasma,,,,Histoplasma capsulatum,,,NA,NA
+SEDALYDEAYLFVVEQQK,Staphylococcus,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Bacillales,,,NA,Staphylococcaceae,,,,Staphylococcus,,,,,,,NA,NA
+PTDLPDVGLLCDLLWSDPDK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QDTTTPVVDKHEQPQLESPK,Saccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,,,,NA,NA
+DVLLRDCDSEEDK,Saccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,,,,NA,NA
+QQQQQQQQQQQQQHYGMTSKSSSPDEEQKDNK,Saccharomyces cerevisiae,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,Saccharomyces cerevisiae,,,NA,NA
+LSVYYNEAGNGK,Geotrichum candidum,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Dipodascaceae,,,,Geotrichum,,,,Geotrichum candidum,,,NA,NA
+MVHNGLEYGDMQLLAEAYDLLK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TTPSYVAFNDSER,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LFNTDPLTSKLSK,Saccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,,,,NA,NA
+MFPFHEAVK,Bacillus,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Bacillales,,,NA,Bacillaceae,,,,Bacillus,,,,,,,NA,NA
+NNHPMFGK,Sordariomycetes,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Sordariomycetes,,,,,,NA,,,,,,,,,,,,NA,NA
+DLYGNVVLSGGTTMFPGLADR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QFTPEELSSMVLTK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TLKLTNPSYGDLNHLVSAVMSGVSTSLR,Pezizomycotina,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,,,,,,,NA,,,,,,,,,,,,NA,NA
+FMLQGGDFTR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QTQLSSTAPK,Saccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,,,,NA,NA
+QRGLSPSDVGK,Betapapillomavirus 1,Viruses,Shotokuvirae,,NA,Cossaviricota,,,Papovaviricetes,,,Zurhausenvirales,,,NA,Papillomaviridae,Firstpapillomavirinae,,,Betapapillomavirus,,,,Betapapillomavirus 1,,,NA,NA
+DDEEFLKEYHHYLK,Fusobacterium,Bacteria,,,NA,Fusobacteria,,,Fusobacteriia,,,Fusobacteriales,,,NA,Fusobacteriaceae,,,,Fusobacterium,,,,,,,NA,NA
+SSFKYAWVLDK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QMKDKSMSEELK,Saccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,,,,NA,NA
+LCYVALDFEQELQTAAQSSALEK,Fungi,Eukaryota,Fungi,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LHFFMVGFAPLTAR,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EEEEEEEEEENSTFSK,Saccharomyces cerevisiae,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,Saccharomyces cerevisiae,,,NA,NA
+AVSDQEAGSMKTKNVHSEVLFCLGGNNNLMDSLR,Yarrowia lipolytica,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Dipodascaceae,,,,Yarrowia,,,,Yarrowia lipolytica,,,NA,NA
+EMLKHVLDSLR,Clostridium,Bacteria,,,NA,Firmicutes,,,Clostridia,,,Eubacteriales,,,NA,Clostridiaceae,,,,Clostridium,,,,,,,NA,NA
+MTNLPLVTMAR,Kluyveromyces lactis,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Kluyveromyces,,,,Kluyveromyces lactis,,,NA,NA
+RLPELMSLLR,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NMLTGTSQADCALLTLAGGTGEFEAGLSK,Schizophyllum commune,Eukaryota,Fungi,Dikarya,NA,Basidiomycota,Agaricomycotina,,Agaricomycetes,Agaricomycetidae,,Agaricales,,,NA,Schizophyllaceae,,,,Schizophyllum,,,,Schizophyllum commune,,,NA,NA
+TQFTRQLPK,Pasteurellaceae,Bacteria,,,NA,Proteobacteria,,,Gammaproteobacteria,,,Pasteurellales,,,NA,Pasteurellaceae,,,,,,,,,,,NA,NA
+YPLEHGLVKNWDDMEK,Debaryomycetaceae,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Debaryomycetaceae,,,,,,,,,,,NA,NA
+EVNTTDPNYYKWTQWLFTK,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+YELKESGELEAFR,Vanderwaltozyma polyspora DSM 70294,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Vanderwaltozyma,,,,Vanderwaltozyma polyspora,,Vanderwaltozyma polyspora DSM 70294,NA,NA
+LGHDVRLLLPGYGK,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+GLLTLRYPLEHGVVTNWDDMEK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+QTVVANPVR,Oxalobacteraceae,Bacteria,,,NA,Proteobacteria,,,Betaproteobacteria,,,Burkholderiales,,,NA,Oxalobacteraceae,,,,,,,,,,,NA,NA
+EHALLAFTLGVK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+MNAKDLFNLVNYNDGK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EVMGTAKMQVEEASRSGK,Enterobacterales,Bacteria,,,NA,Proteobacteria,,,Gammaproteobacteria,,,Enterobacterales,,,NA,,,,,,,,,,,,NA,NA
+QTPENEDLLKELQLTK,Saccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,,,,NA,NA
+QMKMYNGALECAFNLYTLHANSTRR,Shewanella,Bacteria,,,NA,Proteobacteria,,,Gammaproteobacteria,,,Alteromonadales,,,NA,Shewanellaceae,,,,Shewanella,,,,,,,NA,NA
+WSANSDLLDALEHLSRQALLEVAERENK,Mycobacterium,Bacteria,,,NA,Actinobacteria,,,Actinomycetia,,,Corynebacteriales,,,NA,Mycobacteriaceae,,,,Mycobacterium,,,,,,,NA,NA
+LNGLFALPGMVNPGQLPPSLEK,Saccharomyces,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Saccharomyces,,,,,,,NA,NA
+LPSAVGYQPTLATEMGALQER,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+LSNPSYGDLNHLVSAVMSGVTTCLR,Fungi,Eukaryota,Fungi,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+GTEPAPPR,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EKLRLEELER,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ESQHLQHQSGLLAAWGPR,Curvularia clavata,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,Dothideomycetes,Pleosporomycetidae,,Pleosporales,Pleosporineae,,NA,Pleosporaceae,,,,Curvularia,,,,Curvularia clavata,,,NA,NA
+TLLHSRAEK,Saccharomycetaceae,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,,,,,,,,NA,NA
+NYFEEDLTLR,Gammaproteobacteria,Bacteria,,,NA,Proteobacteria,,,Gammaproteobacteria,,,,,,NA,,,,,,,,,,,,NA,NA
+PKCFACHR,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ALQNELFPNK,Saccharomycetaceae,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,,,,,,,,NA,NA
+SNGLHFKRPVTYK,Yarrowia lipolytica,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Dipodascaceae,,,,Yarrowia,,,,Yarrowia lipolytica,,,NA,NA
+FVFRNHPK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EKDLAWLAEQVK,Shewanella,Bacteria,,,NA,Proteobacteria,,,Gammaproteobacteria,,,Alteromonadales,,,NA,Shewanellaceae,,,,Shewanella,,,,,,,NA,NA
+EAENCECLQGFQLTHSLGGGTGSGMGTLLLSK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+NDDKDWLPWLTNLLLSAKK,Lactobacillus,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Lactobacillales,,,NA,Lactobacillaceae,,,,Lactobacillus,,,,,,,NA,NA
+QTAWDTEK,Debaryomycetaceae,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Debaryomycetaceae,,,,,,,,,,,NA,NA
+LLNEPTAAALAYGLDKSNR,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VADYLPELAK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TQLDCGCFRNGLK,Paracoccus,Bacteria,,,NA,Proteobacteria,,,Alphaproteobacteria,,,Rhodobacterales,,,NA,Rhodobacteraceae,,,,Paracoccus,,,,,,,NA,NA
+STYPVTLPTKEER,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+SLKDVVNLGLGGSDLGPVMVTEALK,Eremothecium gossypii ATCC 10895,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Saccharomycetaceae,,,,Eremothecium,,,,Eremothecium gossypii,,Eremothecium gossypii ATCC 10895,NA,NA
+LDGLYECLLCACCSTSCPSFWWNPDK,root,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VFTPEELSSMVLTK,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+TDPGSPERR,Alphaherpesvirinae,Viruses,Heunggongvirae,,NA,Peploviricota,,,Herviviricetes,,,Herpesvirales,,,NA,Herpesviridae,Alphaherpesvirinae,,,,,,,,,,NA,NA
+LQVYMGGK,Pezizomycotina,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Pezizomycotina,,,,,,,,NA,,,,,,,,,,,,NA,NA
+VTELREASER,Clostridium perfringens,Bacteria,,,NA,Firmicutes,,,Clostridia,,,Eubacteriales,,,NA,Clostridiaceae,,,,Clostridium,,,,Clostridium perfringens,,,NA,NA
+ELVHLQTGQCGNQVGTK,Ustilaginomycotina,Eukaryota,Fungi,Dikarya,NA,Basidiomycota,Ustilaginomycotina,,,,,,,,NA,,,,,,,,,,,,NA,NA
+ENELVFLPEK,Human betaherpesvirus 7,Viruses,Heunggongvirae,,NA,Peploviricota,,,Herviviricetes,,,Herpesvirales,,,NA,Herpesviridae,Betaherpesvirinae,,,Roseolovirus,,,,Human betaherpesvirus 7,,,NA,NA
+QTESLSGELAK,Bacteria,Bacteria,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+PLPPVLDMNK,,,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EVFLCDAVRTPLGR,Proteobacteria,Bacteria,,,NA,Proteobacteria,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+GYSFTNSAER,Eukaryota,Eukaryota,,,NA,,,,,,,,,,NA,,,,,,,,,,,,NA,NA
+EVFEVHLNK,Bacillus,Bacteria,,,NA,Firmicutes,,,Bacilli,,,Bacillales,,,NA,Bacillaceae,,,,Bacillus,,,,,,,NA,NA
+ERKLNFQATEVR,Lodderomyces elongisporus NRRL YB-4239,Eukaryota,Fungi,Dikarya,NA,Ascomycota,Saccharomycotina,,Saccharomycetes,,,Saccharomycetales,,,NA,Debaryomycetaceae,,,,Lodderomyces,,,,Lodderomyces elongisporus,,Lodderomyces elongisporus NRRL YB-4239,NA,NA
+QTGDAWEVQAR,Enterobacteriaceae,Bacteria,,,NA,Proteobacteria,,,Gammaproteobacteria,,,Enterobacterales,,,NA,Enterobacteriaceae,,,,,,,,,,,NA,NA
+LFLPYYGFLPDK,Cyanobacteria,Bacteria,,,NA,Cyanobacteria,,,,,,,,,NA,,,,,,,,,,,,NA,NA
