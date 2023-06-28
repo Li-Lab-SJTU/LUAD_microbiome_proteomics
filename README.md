@@ -27,7 +27,7 @@ __peptide_intensity_data :__ The intensity values of identified microbial peptid
 
 __unipept_output_data :__ The taxonomic annotations and GO (Gene Ontology) annotations of the identified microbial peptides in Unipept metaproteomics annotation. 
 
-__*_go/abundance_calculation_normalization.R :__ The script to calculate and normalize the go terms/taxon abundances in each sample of the three cohorts, combining the peptide_intensity_data and unipept_output_data.
+***_go/abundance_calculation_normalization.R :** The script to calculate and normalize the go terms/taxon abundances in each sample of the three cohorts, combining the peptide_intensity_data and unipept_output_data.
 
 ## 3.two_part_wilcoxon_test
 __test_result :__ The results of statistical tests of the taxon/go term abundances between the tumor and NAT samples in each cohort.
