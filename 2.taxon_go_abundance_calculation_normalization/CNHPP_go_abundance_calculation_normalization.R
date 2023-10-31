@@ -1,4 +1,5 @@
-# Calculate the go abundance and normalize the taxon abundance matrix
+# Calculate the GO abundance and normalize the GO abundance matrix
+
 library(openxlsx)
 library(stringr)
 library(getopt)

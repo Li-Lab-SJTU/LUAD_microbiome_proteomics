@@ -1,4 +1,4 @@
-# Calculate the taxon abundance and normalize the taxon abundance matrix
+# Calculate the GO abundance and normalize the GO abundance matrix
 
 # Load libraries
 library(openxlsx)

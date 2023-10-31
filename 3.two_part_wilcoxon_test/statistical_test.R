@@ -72,5 +72,5 @@ test_result$direction[test_result$direction == F] = 'Down'
 test_result_filtered = test_result %>% filter(p.adjust < 0.05)
 table(test_result_filtered$direction)
 
-# Store the test result
+# Write the test result
 write.xlsx(test_result, './test_result/test_result_CNHPP_taxon.xlsx')
